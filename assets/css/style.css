@@ -58,14 +58,16 @@
 
 .padre12{
     display: flex;
+    min-height: 550px;
 }
 
 .hijo12{
     padding: 0px;
-    height: 300px;
+    /* height: 300px; */
     width: 1100px;
     display: flex;
     padding-left: 900px;   
+    margin: 20px;
 }
 
 header{
